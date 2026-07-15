@@ -3,14 +3,6 @@
 > A bilingual Codex Skill that distills Karl Marx’s methods of analysis into a runnable thinking advisor.  
 > 一个双语 Codex Skill：将卡尔·马克思的分析方法提炼为可运行的思维顾问。
 
-## About · 关于
-
-**English**  
-Marx Perspective is a research-backed thinking skill for analyzing capital, labor, technology, organizations, states, history, and social relations through Karl Marx’s analytical lens. It is designed to ask better questions about ownership, production, reproduction, power, contradiction, and political mediation—not to generate slogans or imitate unsupported quotations.
-
-**中文**  
-马克思视角是一个基于多源研究的思维 Skill，用于从马克思的分析框架理解资本、劳动、技术、组织、国家、历史与社会关系。它关注所有权、生产、再生产、权力、矛盾与政治中介，而不是生成口号或编造名人语录。
-
 ## What it contains · 内容
 
 The skill distills six core mental models:
@@ -74,9 +66,6 @@ Common activation phrases include:
 ```
 
 ## Attribution · 归属
-
-Generated with [Nuwa · Skill Distillation](https://github.com/alchaincyf/nuwa-skill).  
-由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成。
 
 This repository is an interpretive research tool, not an official publication by Karl Marx, Friedrich Engels, or any Marxist organization.  
 本仓库是解释性研究工具，不代表卡尔·马克思、弗里德里希·恩格斯或任何马克思主义组织的官方立场。
